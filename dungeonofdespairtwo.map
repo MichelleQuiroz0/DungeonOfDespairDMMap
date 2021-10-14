@@ -2967,13 +2967,13 @@
 // entity 8
 {
 "classname" "info_player_deathmatch"
-"origin" "-1452 392 -38"
+"origin" "-1452 392 -36"
 "angle" "58"
 }
 // entity 9
 {
 "classname" "info_player_deathmatch"
-"origin" "-2334 2726 -37.883"
+"origin" "-2334 2726 -35.883"
 "angle" "11"
 }
 // entity 10
